@@ -1,5 +1,9 @@
+import HeroSection from "@/components/HeroSection";
+
 export default function Home() {
-  return (
-    <div className="text-center mt-8 text-4xl">Asmit Tyagi</div>
+	return (
+    <main className="min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0.02]">
+      <HeroSection/>
+    </main>
   );
 }
