@@ -17,7 +17,7 @@
 			"description": "Start your musical journey with foundational piano skills taught by expert instructors.",
 			"price": 109.99,
 			"instructor": "Jane Smith",
-			"isFeatured": false,
+			"isFeatured": true,
 			"image": "https://images.pexels.com/photos/164743/pexels-photo-164743.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 		},
 		{
