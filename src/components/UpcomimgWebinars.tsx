@@ -20,7 +20,7 @@ const UpcomimgWebinars = () => {
 						items={featuredWebinars.map((webinar) => ({
 							title: webinar.title,
 							description: webinar.description,
-							link: "/",
+							link: webinar.slug,
 						}))}
 					/>
 				</div>
