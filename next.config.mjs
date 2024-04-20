@@ -2,11 +2,12 @@ import { hostname } from "os";
 
 const nextConfig = {
 	images: {
-		remotePatterns: [
+		remotePatterns:[
 			{
-                hostname: "images.unsplash.com/",
-            }
-		],
+				hostname: 'images.unsplash.com',
+			}
+		]
+		
 	},
 };
 
